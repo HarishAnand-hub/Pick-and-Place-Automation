@@ -92,10 +92,6 @@ The Dobot Magician Lite successfully executed pallet pick-and-place with both su
 ### Python Source Files
 The Python source files (`suction1.py` and `gripper1.py`) are available in this repository.
 
-### AI Usage (Code Only)
-AI assistance (Claude AI) was used solely for code-level tasks:
-- Increasing robot motion speed by tuning the API speed parameters and reducing unnecessary delays.
-- Guiding iterative coordinate offset calibration for pallet B placements (left/right X-offset fine-tuning).
 
 ### Demo Images
 
