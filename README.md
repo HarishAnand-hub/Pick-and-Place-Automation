@@ -96,3 +96,9 @@ The Python source files (`suction1.py` and `gripper1.py`) are available in this 
 AI assistance (Claude AI) was used solely for code-level tasks:
 - Increasing robot motion speed by tuning the API speed parameters and reducing unnecessary delays.
 - Guiding iterative coordinate offset calibration for pallet B placements (left/right X-offset fine-tuning).
+
+### Demo Images
+
+![Suction-based pick-and-place](suction.png)
+
+![Gripper-based pick-and-place](gripper.png)
